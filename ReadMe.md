@@ -8,7 +8,11 @@ PyNotion is designed to be a simple to use Python wrapper around the Notion API.
 
 - ##### Read The Notion API Docs
     - [Notion API Documentation](https://docs.getnotion.com/)
-    
+
+### Install From PyPI:
+```bash
+pip install PyNotion
+```
 
 ### Setup:
 Create a Python 3 Virtual Environment
